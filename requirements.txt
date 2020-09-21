@@ -1,0 +1,13 @@
+fbprophet
+holidays
+jupyterthemes
+leila
+lesscpy
+matplotlib
+numpy
+pandas
+plotly
+plotly_express
+seaborn
+sklearn
+world_trade_data
